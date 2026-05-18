@@ -1,0 +1,8 @@
+{
+  "name": "SavePro",
+  "description": "Download videos and photos from TikTok, Instagram, and YouTube without watermarks easily.",
+  "requestFramePermissions": [
+    "clipboard-read"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
